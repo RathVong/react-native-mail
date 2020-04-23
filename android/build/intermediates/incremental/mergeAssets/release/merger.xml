@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/gustavo/AppPress/customer-apps/isnapper-app/node_modules/react-native-mail/android/src/main/assets"/></dataSet><dataSet config="release"><source path="/Users/gustavo/AppPress/customer-apps/isnapper-app/node_modules/react-native-mail/android/src/release/assets"/></dataSet></merger>

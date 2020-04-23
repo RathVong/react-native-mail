@@ -1,0 +1,55 @@
+{
+  "_from": "@app-press/react-native-mail",
+  "_id": "@app-press/react-native-mail@3.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-TakB6SnRrQaJKaw5pS3nDFe/k5U=",
+  "_location": "/@app-press/react-native-mail",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@app-press/react-native-mail",
+    "name": "@app-press/react-native-mail",
+    "escapedName": "@app-press%2freact-native-mail",
+    "scope": "@app-press",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@app-press/react-native-mail/-/react-native-mail-3.0.2.tgz",
+  "_shasum": "4da901e929d1ad068929ac39a52de70c57bf9395",
+  "_spec": "@app-press/react-native-mail",
+  "_where": "/Users/kevin/Downloads",
+  "author": {
+    "name": "Chirag Jain",
+    "email": "jain_chirag04@yahoo.com",
+    "url": "http://chiragjain.tumblr.com"
+  },
+  "bugs": {
+    "url": "https://github.com/chirag04/react-native-mail/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A wrapper on top of MFMailComposeViewController from iOS and Mail Intent on android",
+  "homepage": "https://github.com/chirag04/react-native-mail#readme",
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "email",
+    "MFMailComposeViewController"
+  ],
+  "license": "MIT",
+  "name": "@app-press/react-native-mail",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chirag04/react-native-mail.git"
+  },
+  "version": "3.0.2"
+}
